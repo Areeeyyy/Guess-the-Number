@@ -1,0 +1,1 @@
+Tolong pastikan, file gambar "login_bg.png" dalam satu file yang sama
